@@ -1,1 +1,10 @@
-
+{
+  "license": [
+    {
+      "name": "OrcaX",
+      "rs": "STP_DeadPlayer",
+      "key": "CustomerOrcaX",
+      "dc": "https://discord.gg/hWdwTnUyUt"
+    },
+  ]
+}
