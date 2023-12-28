@@ -6,6 +6,13 @@
       "key": "STP:DEFENDER1",
       "ip": "102.129.138.201",
       "dc": "https://discord.gg/hWdwTnUyUt"
+    },
+    {
+      "name": "SUFFERZ",
+      "rs": "STP_DF",
+      "key": "STP:DEFENDER2",
+      "ip": "89.38.101.97",
+      "dc": "https://discord.gg/hWdwTnUyUt"
     }
   ]
 }
