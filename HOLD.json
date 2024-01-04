@@ -1,7 +1,7 @@
 {
   "license": [
     {
-      "name": "SUFFERZ_FORTEST",
+      "name": "VIPER",
       "rs": "STP_Hold",
       "key": "STP:85zo2gZ5KC",
       "dc": "https://discord.gg/hWdwTnUyUt"
@@ -10,6 +10,12 @@
       "name": "rubyzxy",
       "rs": "STP_Hold",
       "key": "STP:20ATOUZNqN",
+      "dc": "https://discord.gg/hWdwTnUyUt"
+    },
+    {
+      "name": "CrownOfKing",
+      "rs": "STP_Hold",
+      "key": "STP:jmBWjJDZdH",
       "dc": "https://discord.gg/hWdwTnUyUt"
     }
   ]
