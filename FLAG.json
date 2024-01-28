@@ -1,1 +1,16 @@
-
+{
+  "license": [
+    {
+      "name": "Orcax",
+      "rs": "STP_Game",
+      "key": "STP:xfIkRA0Lhw",
+      "dc": "https://discord.gg/hWdwTnUyUt"
+    },
+    {
+      "name": "chouxga",
+      "rs": "STP_Game",
+      "key": "STP:yxkn2on8mc",
+      "dc": "https://discord.gg/hWdwTnUyUt"
+    }
+  ]
+}
