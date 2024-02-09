@@ -23,6 +23,12 @@
       "rs": "STP_Damage",
       "key": "STP:FORTEST",
       "dc": "https://discord.gg/hWdwTnUyUt"
+    },
+    {
+      "name": "orcax_fortest",
+      "rs": "STP_Damage",
+      "key": "STP:ieBM1DyFlb",
+      "dc": "https://discord.gg/hWdwTnUyUt"
     }
   ]
 }
