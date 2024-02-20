@@ -12,6 +12,13 @@
       "rs": "STP_WarKills",
       "key": "STP:VERDHERZZ",
       "dc": "https://discord.gg/hWdwTnUyUt"
+    },
+
+    {
+      "name": "demon.th",
+      "rs": "STP_WarKills",
+      "key": "STP:demonthz",
+      "dc": "https://discord.gg/hWdwTnUyUt"
     }
   ]
 }
